@@ -28,5 +28,7 @@ describe "StaticPages" do
     before  { visit contact_path }
     it {should have_selector('title', text: full_title('Contact'))} 
   end
+  
+  
 
 end
