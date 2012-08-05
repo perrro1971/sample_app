@@ -18,3 +18,4 @@
 db/schema.rb
 .DS_Store
 bundler_stubs/
+.idea/*
