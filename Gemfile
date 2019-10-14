@@ -11,7 +11,7 @@ group :assets do
   gem 'coffee-rails', '3.2.2'
   gem 'uglifier', '1.2.3'
 end
-gem 'jquery-rails', '2.0.0'
+gem 'jquery-rails', '3.1.3'
 group :test do
   gem 'capybara', '1.1.2'
 end
